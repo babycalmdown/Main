@@ -12,8 +12,8 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local LP = game:GetService("Players").LocalPlayer
 
 --// SOCIAL CONFIG (Growth loop)
-local YT_URL = "https://youtube.com/@YOUR_CHANNEL"
-local VIDEO_URL = "https://youtu.be/YOUR_VIDEO_ID"
+local YT_URL = "https://m.youtube.com/channel/UCQVXAPKYM_KK36UlhvthC4A"
+local VIDEO_URL = "https://m.youtube.com/shorts/-rINN1m91-g"
 local VERIFY_TIME = 35 
 
 --// GLOBAL STATE
